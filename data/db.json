@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://www.tradeinn.com/f/13840/138406492/funko-pop-dc-comics-superman-exclusive-chase-25-cm.jpg"
     },
     {
       "id": "dc-flash",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "7iLjfUj",
+      "superhero": "Fernando",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Strider",
+      "first_appearance": "Comic Udemy 2015 #1",
+      "characters": "Fernando",
+      "alt_img": "https://i.pinimg.com/1200x/c9/1e/e1/c91ee1fd6c0c333c2e36ed031bde65a0.jpg"
     }
   ]
 }

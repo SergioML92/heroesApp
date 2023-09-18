@@ -10,6 +10,7 @@ import { NewPageComponent } from './pages/new-page/new-page.component';
 import { NgModule } from '@angular/core';
 import { ReactiveFormsModule } from '@angular/forms';
 import { SearchPageComponent } from './pages/search-page/search-page.component';
+import { ConfirmDialogComponent } from './components/confirm-dialog/confirm-dialog.component';
 
 
 @NgModule({
@@ -20,7 +21,8 @@ import { SearchPageComponent } from './pages/search-page/search-page.component';
     NewPageComponent,
     SearchPageComponent,
     CardComponent,
-    HeroImagePipe
+    HeroImagePipe,
+    ConfirmDialogComponent
   ],
   imports: [
     CommonModule,
